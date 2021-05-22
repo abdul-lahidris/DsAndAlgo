@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.exe
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.deps.json
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.runtimeconfig.json
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.runtimeconfig.dev.json
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.dll
+C:\Users\pc\source\repos\QueuesArrAndLL\bin\Debug\netcoreapp3.1\QueuesArrAndLL.pdb
+C:\Users\pc\source\repos\QueuesArrAndLL\obj\Debug\netcoreapp3.1\QueuesArrAndLL.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\QueuesArrAndLL\obj\Debug\netcoreapp3.1\QueuesArrAndLL.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\QueuesArrAndLL\obj\Debug\netcoreapp3.1\QueuesArrAndLL.AssemblyInfo.cs
+C:\Users\pc\source\repos\QueuesArrAndLL\obj\Debug\netcoreapp3.1\QueuesArrAndLL.dll
+C:\Users\pc\source\repos\QueuesArrAndLL\obj\Debug\netcoreapp3.1\QueuesArrAndLL.pdb
